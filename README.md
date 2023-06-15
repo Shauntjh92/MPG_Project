@@ -153,3 +153,5 @@ Project Link: [https://github.com/Shauntjh92/MPG_Project](https://github.com/Sha
 [linkedin-url]: https://linkedin.com/in/shaun-toh-b22b1335
 [product-screenshot]: images/image1.jpeg
 [python-url]: https://www.python.org/
+[python.org]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+
