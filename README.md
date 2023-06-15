@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shauntjh92/MPG_Project">
-    <img src="images/image1.jpeg" alt="Logo" width="80" height="80">
+    <img src="images/image1.jpeg" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">MPG Prediction Project</h3>
@@ -70,9 +70,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![MPG Prediction Machine][product-screenshot]](https://example.com)
+[![MPG Prediction Machine]]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Shauntjh92`, `MPG_Project`, `twitter_handle`, `shaun-toh-b22b1335`, `MPG Prediction Project`, `A simple prediction project with a deployable API`
+Here is a sample project using a simple model for MPG prediction.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
