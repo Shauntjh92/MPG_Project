@@ -137,13 +137,6 @@ Project Link: [https://github.com/Shauntjh92/MPG_Project](https://github.com/Sha
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Shauntjh92/MPG_Project.svg?style=for-the-badge
