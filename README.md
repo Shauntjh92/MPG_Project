@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shauntjh92/MPG_Project">
-    <img src="images/icon.png" alt="Logo" width="80" height="80">
+    <img src="images/image1.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">MPG Prediction Project</h3>
@@ -151,5 +151,5 @@ Project Link: [https://github.com/Shauntjh92/MPG_Project](https://github.com/Sha
 [license-url]: https://github.com/Shauntjh92/MPG_Project/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaun-toh-b22b1335
-[product-screenshot]: images/icon.png
+[product-screenshot]: images/image1.jpeg
 [python-url]: https://www.python.org/
