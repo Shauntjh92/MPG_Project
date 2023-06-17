@@ -70,7 +70,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://archive.ics.uci.edu/dataset/9/auto+mpg)
 
-Here is a sample project using a simple model for MPG prediction.
+Here is a sample project using a simple model for Miles Per Gallon (MPG) prediction. The data was sourced from the UCI Machine Learning repository, it contains the city-cycle fuel consumption in miles per gallon. The main aim of this project is to predict the MPG value for a vehicle, given that we have other attributes available for a given vehicle. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +106,8 @@ To get a local copy up and running follow these simple example steps.
    ```
 4. Run test_request.ipynb to test the post request
    ```ipynb
-   python main.py
+   Run notebook along with vehicle configuration and post request 
+   [![notebook screenshot][screenshot2]]
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,4 +138,5 @@ Project Link: [https://github.com/Shauntjh92/MPG_Project](https://github.com/Sha
 [python-url]: https://www.python.org/
 [python.org]: https://img.shields.io/badge/python.org-000000?style=for-the-badge&logo=python&logoColor=white
 [product-screenshot]: images/screenshot.png
+[screenshot2]:images/screenshot2.png
 
