@@ -107,8 +107,9 @@ To get a local copy up and running follow these simple example steps.
 4. Run test_request.ipynb to test the post request
    ```ipynb
    Run notebook along with vehicle configuration and post request 
-   [![notebook screenshot][screenshot2]]
+   
    ```
+   [![notebook screenshot][screenshot2]](www.example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
