@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shauntjh92/MPG_Project">
-    <img src="images/image1.jpeg" alt="Logo" width="160" height="160">
+    <img src="images/image1.jpeg" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">MPG Prediction Project</h3>
@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![MPG Prediction Machine]]
+[![MPG Prediction Machine][product-screenshot]](https://archive.ics.uci.edu/dataset/9/auto+mpg)
 
 Here is a sample project using a simple model for MPG prediction.
 
@@ -95,9 +95,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip install 
   ```sh
-  npm install npm@latest -g
+  pip install -r requirements.txt
   ```
 
 ### Installation
@@ -153,5 +153,6 @@ Project Link: [https://github.com/Shauntjh92/MPG_Project](https://github.com/Sha
 [linkedin-url]: https://linkedin.com/in/shaun-toh-b22b1335
 [product-screenshot]: images/image1.jpeg
 [python-url]: https://www.python.org/
-[python.org]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[python.org]: https://img.shields.io/badge/python.org-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[product-screenshot]: images/screenshot.png
 
