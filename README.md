@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![MPG Prediction Machine][product-screenshot]](https://archive.ics.uci.edu/dataset/9/auto+mpg)
+[![Dataset Source][product-screenshot]](https://archive.ics.uci.edu/dataset/9/auto+mpg)
 
 Here is a sample project using a simple model for MPG prediction.
 
