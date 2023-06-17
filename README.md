@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shauntjh92/MPG_Project">
-    <img src="images/image1.jpeg" alt="Logo" width="300" height="300">
+    <img src="images/image1.jpeg" alt="Logo" width="500" height="300">
   </a>
 
 <h3 align="center">MPG Prediction Project</h3>
@@ -55,11 +55,9 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     
   </ol>
@@ -70,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Dataset Source][product-screenshot]](https://archive.ics.uci.edu/dataset/9/auto+mpg)
+[![Product Name Screen Shot][product-screenshot]](https://archive.ics.uci.edu/dataset/9/auto+mpg)
 
 Here is a sample project using a simple model for MPG prediction.
 
@@ -92,40 +90,24 @@ Here is a sample project using a simple model for MPG prediction.
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* pip install 
-  ```sh
-  pip install -r requirements.txt
-  ```
-
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/Shauntjh92/MPG_Project.git
    ```
-3. Install NPM packages
+2. Install Python packages
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run main app file
+   ```sh
+   python main.py
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+4. Run test_request.ipynb to test the post request
+   ```ipynb
+   python main.py
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
